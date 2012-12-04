@@ -15,3 +15,8 @@
 .media-grid a:hover {
 	border-color: #ddd;
 }
+
+.header {
+	background-color: gray;
+	padding: 10px;
+}
